@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## angular-eslint Migration 
+- [angular-eslint README](https://github.com/angular-eslint/angular-eslint/blob/master/README.md)
+- [Step 1 - Add relevant dependencies](https://github.com/angular-eslint/angular-eslint/blob/master/README.md#step-1---add-relevant-dependencies)
+- [Step 2 - Run the convert-tslint-to-eslint schematic on a project](https://github.com/angular-eslint/angular-eslint/blob/master/README.md#step-2---run-the-convert-tslint-to-eslint-schematic-on-a-project)
+- [Step 3 - Remove root TSLint configuration and use only ESLint](https://github.com/angular-eslint/angular-eslint/blob/master/README.md#step-3---remove-root-tslint-configuration-and-use-only-eslint)
