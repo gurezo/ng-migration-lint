@@ -52,6 +52,6 @@
     "@angular-eslint/template-parser": "2.1.0",
     "@typescript-eslint/eslint-plugin": "4.16.1",
     "@typescript-eslint/parser": "4.16.1",
-    "custom-snippets": "git+https://git@github.com/gurezo/custom-snippets.git"
+    "custom-snippets": "git+https://git@github.com/gurezo/custom-snippets.git#v0.0.2"
   }
 }
