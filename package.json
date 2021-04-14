@@ -9,8 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "copy-snippets": "cp -f node_modules/custom-snippets/typescript.json ~/AppData/Roaming/Code/User/snippets/",
-    "postinstall": "npm run copy-snippets"
+    "postinstall": "snippets.sh"
   },
   "private": true,
   "dependencies": {
